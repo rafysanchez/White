@@ -6,3 +6,11 @@ C:\Users\rportal\Documents\GitHub\TestWhiteCalculator\TestWhiteCalculator\obj\x8
 C:\Users\rportal\Documents\GitHub\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.csproj.CopyComplete
 C:\Users\rportal\Documents\GitHub\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.exe
 C:\Users\rportal\Documents\GitHub\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.pdb
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.exe.config
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.exe
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\bin\Debug\TestWhiteCalculator.pdb
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.csprojAssemblyReference.cache
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.csproj.CopyComplete
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.exe
+C:\Users\rportal\Documents\GitHub\ProgsWhiteSelenium\TestWhiteCalculator\TestWhiteCalculator\obj\x86\Debug\TestWhiteCalculator.pdb
